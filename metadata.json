@@ -1,0 +1,6 @@
+{
+  "name": "AI Safety Arena",
+  "description": "An interactive research benchmark platform for evaluating large language models (LLMs) on safety, alignment, honesty, robustness, and hallucination resistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
